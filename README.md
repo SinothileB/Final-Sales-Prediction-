@@ -1,5 +1,6 @@
 # Prediction of Product Sales
-a sales prediction for food items sold at various stores
+
+Sales prediction for food items sold at various stores
 
 Author:Sinothile Blose
 
