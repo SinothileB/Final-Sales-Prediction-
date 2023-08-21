@@ -30,8 +30,19 @@ From the below plot we can observe that supermaket type 1 has more sales
 
 3.Summary of the model and its evaluation metrics
 
+a)Random Forest regression Metrics for evaluation with tuned hyperparameters for a Random Forest model.
+
+ ![image](https://github.com/SinothileB/Final-Sales-Prediction-/assets/138825036/6132beee-318e-46f6-a9ce-b551d6fa0248)
+
+ b) Random Forest regression Model with default parameters.
+ ![image](https://github.com/SinothileB/Final-Sales-Prediction-/assets/138825036/1c02744c-1130-4fa4-a1e8-673b08a5b046)
+
 
 4.Final recommendations
+I recommend that we used the tuned Random Forest Model with these paramaters,although it is not the best but it's better than using default parameters.
+
+Without Tuning the moved is a big overfit , it perfoms well only in traing data.
+
 
 5.For further information
 For any additional questions, please Cnothile.bls@gmail.com
